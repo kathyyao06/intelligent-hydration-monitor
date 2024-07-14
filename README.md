@@ -12,7 +12,9 @@ This project involves building an Arduino-based hydration monitor that utilizes 
 - Step Up
 - H Bridge
 - Water Pump
+- Laser-cut Box
 
+### Design for 3D Printed Wrist Strap 
 <img width="442" alt="Screenshot 2024-07-14 at 3 08 43 PM" src="https://github.com/user-attachments/assets/7f8c8c39-ef0b-481f-9623-ecf48c2b96fa">
   
 ## Schematic Diagram
